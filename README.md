@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prajwal SR 👋
 
-<!--
-**PrajwalSR/PrajwalSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certified Product & Project Manager | Engineer
 
-Here are some ideas to get you started:
+I bridge the gap between technical engineering and business strategy, utilizing Agile and Waterfall methodologies to deliver impactful software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Management Stack
+
+- **Management & Methodologies:** Agile, Scrum, Waterfall, Product Roadmap, Jira
+- **Languages & Frameworks:** JavaScript, TypeScript, HTML, CSS, React
+- **Currently Building:** AI-powered architecture tools and e-commerce integrations
+
+---
+
+### 📊 My GitHub Stats
+
+![Prajwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalSR&layout=compact&theme=dark)
+
+🤝 **Let's Connect!**
+- [Portfolio](https://prajwalsr.github.io/myportfolio/)
+- [LinkedIn](https://linkedin.com/in/prajwalsr1997)
