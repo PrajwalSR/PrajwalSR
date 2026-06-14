@@ -4,12 +4,7 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 
 ---
 
-### 🧠 How I Operate Differently Than a Traditional PM
-
-> 🚫 **Traditional Project / Product Managers** often hand-wave technical requirements, treat AI as a magical black box, and rely entirely on development teams to map out architectures or estimate timelines.
-> 
-> 
-> ⚡ **My Engineering-First Approach:**
+### My Engineering-First Approach:**
 > * **API Design & Specifications:** Authored 18 technical PRDs specifying exact API contracts, system requirements, and JSON schemas.
 > 
 > 
