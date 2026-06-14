@@ -6,22 +6,24 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 
 ### 🧠 How I Operate Differently Than a Traditional PM
 
-| Traditional Project / Product Manager | My Technical Engineering Approach
-
- |
-| --- | --- |
-| Hand-waves technical requirements and relies completely on devs to estimate timelines. | Authored 18 technical PRDs specifying exact API contracts, system requirements, and JSON schemas.
-
- |
-| Views AI/ML as a magical black box that just works. | Hands-on with Vertex AI, OpenAI APIs, prompt engineering, and multi-agent n8n orchestration workflows.
-
- |
-| Avoids the codebase and relies entirely on high-level roadmaps. | Eliminated engineering blocks by building a React/MongoDB dashboard to slash update cycles from 2 weeks to 2 hours.
-
- |
-| Cannot deeply evaluate vendor capabilities or infrastructure costs. | Evaluated system architectures under 500 req/sec loads and audited cloud infrastructure costs.
-
- |
+> 🚫 **Traditional Project / Product Managers** often hand-wave technical requirements, treat AI as a magical black box, and rely entirely on development teams to map out architectures or estimate timelines.
+> 
+> 
+> ⚡ **My Engineering-First Approach:**
+> * **API Design & Specifications:** Authored 18 technical PRDs specifying exact API contracts, system requirements, and JSON schemas.
+> 
+> 
+> * **Hands-on AI Implementation:** Actively deploy and build workflows with Vertex AI, OpenAI APIs, prompt engineering, and multi-agent n8n orchestration.
+> 
+> 
+> * **Codebase Intervention:** Eliminated critical engineering blocks by building a React/MongoDB dashboard to slash update cycles from 2 weeks to 2 hours.
+> 
+> 
+> * **Infrastructure & Feasibility:** Evaluate system architectures under 500 req/sec loads and audit cloud infrastructure models to optimize cost and performance.
+> 
+> 
+> 
+> 
 
 ---
 
@@ -92,24 +94,6 @@ A continuous pipeline designed to ingest, convert, and cleanly structure high-vo
 * **My Technical Blueprint:** Programmed prompt-chaining flows using LLM APIs, optimized total token consumption limits, and implemented automated schema validation to guarantee clean JSON outputs.
 
 
-
----
-
-### 📈 Technical Metrics That Matter
-
-* 🚀 **Performance Validation:** Successfully load-tested and validated high-volume ML inference models handling up to 500 req/sec.
-
-
-* 📈 **Team Velocity:** Accelerated engineering delivery speeds by **33%** (jumping from 18 to 24 story points per sprint) by revamping documentation and workflow architectures.
-
-
-* 🛑 **Uptime Maintenance:** Supervised and coordinated operations across time zones to maintain a strict **98% production uptime** for enterprise cloud configurations.
-
-
-* 💰 **Capital Efficiency:** Researched, mapped, and negotiated critical engineering scope with CEOs/CTOs to deliver minimum viable products while cutting software vendor expenditures.
-
-
-
 ---
 
 ### 🤝 Connect with Me
@@ -117,6 +101,7 @@ A continuous pipeline designed to ingest, convert, and cleanly structure high-vo
 * **Portfolio Website:** [prajwalsr.github.io/myportfolio/](https://www.google.com/search?q=https://prajwalsr.github.io/myportfolio/)
 
 * **LinkedIn Profile:** [linkedin.com/in/prajwalsr1997](https://www.google.com/search?q=https://linkedin.com/in/prajwalsr1997/)
+
 
 
 ---
