@@ -4,7 +4,7 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 
 ---
 
-### My Engineering-First Approach:**
+### My Engineering-First Approach
 > * **API Design & Specifications:** Authored 18 technical PRDs specifying exact API contracts, system requirements, and JSON schemas.
 > 
 > 
@@ -16,11 +16,7 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 > 
 > * **Infrastructure & Feasibility:** Evaluate system architectures under 500 req/sec loads and audit cloud infrastructure models to optimize cost and performance.
 > 
-> 
-> 
-> 
 
----
 
 ### 🛡️ Core Stack & Tooling
 
