@@ -19,8 +19,6 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 
 ---
 
-### 🛡️ Core Stack & Tooling
-
 ### 📦 Private Repositories & System Architecture Spotlights
 
 *Because my flagship enterprise and client systems run in secure production environments, here is how I engineered their core architectures:*
