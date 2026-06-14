@@ -17,10 +17,9 @@ I am a Technical PM and Product Lead who builds directly at the intersection of 
 > * **Infrastructure & Feasibility:** Evaluate system architectures under 500 req/sec loads and audit cloud infrastructure models to optimize cost and performance.
 > 
 
+---
 
 ### 🛡️ Core Stack & Tooling
-
----
 
 ### 📦 Private Repositories & System Architecture Spotlights
 
